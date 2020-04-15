@@ -1,11 +1,10 @@
 # Python-Examples
 ## Scripts 
 
-#1 : helloworld.py
+### 1 : helloworld.py
 
 This is simple hello world application that prints Hello World
+ 
+### 2 : opencv-test.py
 
-#2 : opencv-test.py
-
-This
-
+This is an Opencv test application which loads a video source from a webcam.I got this code from Python Programming Loading the Video Python Tutorial https://pythonprogramming.net/loading-video-python-opencv-tutorial/
